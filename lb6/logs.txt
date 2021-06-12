@@ -1,0 +1,221 @@
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player took the gun
+Gun was picked up by the player
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player killed an enemy
+Enemy is dead
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player killed an enemy
+Enemy is dead
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game ended
+Game started
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Medkit was picked up by the player
+Medkit was picked up by the player
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player took the gun
+Gun was picked up by the player
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player escaped an enemy
+Enemy is still alive
+Player escaped an enemy
+Enemy is still alive
+Enemy killed the player
+Player is dead
+Game ended
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game ended
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player escaped an enemy
+Enemy is still alive
+Enemy killed the player
+Player is dead
+Game ended
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Medkit was picked up by the player
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player escaped an enemy
+Enemy is still alive
+Enemy killed the player
+Player is dead
+Game ended
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player escaped an enemy
+Enemy is still alive
+Enemy killed the player
+Player is dead
+Game ended
+Game started
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player steped on an ordinary cell
+Player escaped an enemy
+Enemy is still alive
+Enemy killed the player
+Player is dead
+Game ended
